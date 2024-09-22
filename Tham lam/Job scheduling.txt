@@ -1,0 +1,1 @@
+Cho N công việc với thời gian bắt đầu và kết thúc, tại mỗi thời điểm bạn chỉ thể thực hiện 1 công việc. Bạn hãy tìm ra số lượng công việc lớn nhất mà bạn có thể thực hiện mà các công việc không bị trùng lặp thời gian, biết rằng 2 công việc không trùng lặp thời gian nếu thời gian bắt đầu của công việc hiện tại lớn hơn thời gian kết thúc của công việc trước đó thực hiện.

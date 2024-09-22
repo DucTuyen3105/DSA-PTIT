@@ -1,0 +1,3 @@
+Nhiệm vụ của bạn là hãy liệt kê các xâu nhị phân thuận nghịch có độ dài chẵn theo thứ tự từ điển với chiều dài không quá n kí tự.
+
+Gợi ý : Để sinh xâu nhị phân có độ dài chẵn đối xứng n bạn chỉ cần sinh xâu nhị phân có độ dài n / 2, lật ngược lại xâu và nối vào xâu ban đầu sẽ thu được xâu có độ dài chẵn mà đối xứng.

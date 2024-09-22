@@ -1,0 +1,13 @@
+Cho mảng A[] gồm N số nguyên dương phân biệt và số X. Nhiệm vụ của bạn là tìm phép tổ hợp các số trong mảng A[] có tổng bằng X. Các số trong mảng A[] có thể được sử dụng nhiều lần. Mỗi tổ hợp các số của mảng A[] được in ra theo thứ tự không giảm các số.
+
+Ví dụ với A[] = {2, 4, 6, 8}, X = 8 ta có các tổ hợp các số như sau: {2, 2, 2, 2}, {2, 2, 4}, {2, 6}, {4, 4}, {8}.
+
+Đầu vào
+Dòng thứ nhất là hai số N và X
+
+Dòng tiếp theo đưa vào N số của mmảng A[]
+
+Giới hạn
+1<=N<=20
+
+1<=X,A[i]<=100

@@ -1,0 +1,1 @@
+Cho một bàn cờ vua có kích thước N x N. Hãy đếm số cách đặt N quân hậu vào bàn cờ sao cho không có 2 con hậu nào ăn nhau.

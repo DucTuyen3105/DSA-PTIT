@@ -1,0 +1,7 @@
+Cho một ma trận nhị phân cỡ N x N, bạn xuất phát từ ô (1,1) và tìm đường đi tới ô (N, N). Ở mỗi bước đi bạn được phép đi theo 4 ước trên, dưới, trái, phải của ô hiện tại.
+
+Mỗi lần đi qua một ô bạn sẽ nhặt số 0 hoặc 1 ở ô đó để ghép thành số nhị phân.
+
+Có thể hiểu đơn giản là mỗi đường đi từ ô (1, 1) tới ô (N, N) sẽ tạo ra 1 số nhị phân tương ứng với đường đi đó.
+
+Bạn hãy in ra đường đi có số nhị phân là lớn nhất (dạng thập phân tương ứng của nó là lớn nhất), biết rằng mỗi đường đi bạn chỉ được đi qua mỗi ô 1 lần. Lưu ý rằng các số nhị phân có thể có đường đi với số bit khác nhau.

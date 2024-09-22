@@ -1,0 +1,5 @@
+Cho số nguyên dương N và K, nhiệm vụ của bạn là liệt kê các xâu nhị phân có độ dài N và có K bit 1 theo thứ tự từ điển tăng dần.
+
+Sau đó tiếp tục liệt kê các xâu nhị phân mà chỉ có duy nhất K bit 1 liên tiếp.
+
+Lưu ý rằng xâu 1101111 sẽ có 2 nhóm 3 bit 1 liên tiếp do có nhóm 1111

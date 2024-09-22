@@ -1,0 +1,6 @@
+Bạn được cung cấp một mảng chứa n số nguyên dương. Nhiệm vụ của bạn là chia mảng thành k mảng con liên tiếp sao cho tổng lớn nhất trong một mảng con càng nhỏ càng tốt.
+input:
+5 3
+2 4 7 3 5
+output:
+8
